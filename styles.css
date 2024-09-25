@@ -1,0 +1,31 @@
+.conteudo{
+    background-color: blue;
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+.coluna{
+    background-color: black;
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+.central{
+    background-color: brown;
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+.esquerda{
+    background-color: brown;
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+
+}
+.direita{
+    background-color: brown;
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
